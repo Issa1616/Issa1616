@@ -1,43 +1,42 @@
 <div align="center">
 
-<!-- LOCAL CITY-POP BANNER -->
+<!-- BANNER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+  <img src="assets/banner-dark.v9.svg" width="100%" alt="profile.sh --live">
+</picture>
+
+<br>
+
+<!-- NAME / TAGLINE -->
 <a href="https://github.com/Issa1616">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil de Issa Victoria Aguilar Soto">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=8B9251&center=true&vCenter=true&width=880&lines=Issa+Victoria+Aguilar+Soto;Software+Developer+%26+Systems+Engineer;Web+/+Backend+/+Mobile+/+Databases" alt="typing banner">
 </a>
 
 <br>
 
-<a href="https://github.com/Issa1616">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=8B9251&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Issa+Victoria+Aguilar+Soto+%E2%80%94+Software+Developer%3BIngenier%C3%ADa+en+Sistemas+Computacionales%3BWeb+%E2%80%A2+Backend+%E2%80%A2+Mobile+%E2%80%A2+Databases%3BLaravel+%E2%80%A2+Angular+%E2%80%A2+.NET+%E2%80%A2+Flutter%3BCafe+-+Code+-+Music+-+Learning+-+Tecnologia" alt="Banner animado con perfil de Issa">
-</a>
+<!-- SOCIALS -->
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://github.com/Issa1616"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=8b9251" alt="GitHub"></a>
 
-<img src="https://komarev.com/ghpvc/?username=Issa1616&amp;style=flat&amp;color=8b9251&amp;label=profile+views" alt="profile views">
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Issa1616&style=flat&color=8b9251&label=profile+views" alt="profile views">
 
 </div>
 
 ---
 
-## `$ whoami`
+## This is me :)
 
-<p align="center">
-  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop con el perfil de Issa Victoria Aguilar Soto">
-</p>
+Hi, I'm **Issa**, a Software Developer and Systems Engineering student from Sonora, Mexico 🇲🇽.  
+I enjoy building applications, working with databases, and learning how different technologies connect to create useful software.
 
-<br>
-
-<div align="center">
-
-## `$ cat tech-stack.yaml`
-
-<table border="1" cellpadding="14" bgcolor="#17171c">
-  <thead>
-    <tr>
-      <th colspan="2" align="left"><code>Issa1616:~$ cat tech-stack.yaml</code></th>
-    </tr>
-  </thead>
-  <tbody>
-    
+- 💻 **Systems Engineering student** at Universidad de Navojoa.
+- 🚀 I build projects using **Laravel, Angular, .NET, Flutter and Node.js**.
+- 🗄️ I work with databases such as **PostgreSQL, MySQL, Firebase and Supabase**.
+- 🌐 Interested in **web development, backend development, APIs and software architecture**.
+- 📱 I also enjoy **mobile development** with Flutter and Expo.
+- 🧠 Currently improving my skills in **software development, cybersecurity and system design**.
+-

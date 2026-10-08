@@ -1,12 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-  <img src="assets/banner-dark.v9.svg" width="100%" alt="profile.sh --live">
-</picture>
+<a href="https://github.com/Issa1616">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=8B9251&center=true&vCenter=true&width=880&lines=Issa+Victoria+Aguilar+Soto;Software+Developer+%26+Systems+Engineer;Web+/+Backend+/+Mobile+/+Databases" alt="typing banner">
+</a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/Issa1616">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=8B9251&center=true&vCenter=true&width=880&lines=Issa+Victoria+Aguilar+Soto;Software+Developer+%26+Systems+Engineer;Web+/+Backend+/+Mobile+/+Databases" alt="typing banner">
@@ -29,7 +27,7 @@
 
 ## This is me :)
 
-Hi, I'm **Issa**, a Software Developer and Systems Engineering student from Sonora, Mexico 🇲🇽.  
+Hi, I'm **Issa**, a Software Developer and Systems Engineering student from Sinaloa, Mexico 🇲🇽.  
 I enjoy building applications, working with databases, and learning how different technologies connect to create useful software.
 
 - 💻 **Systems Engineering student** at Universidad de Navojoa.

@@ -48,7 +48,7 @@ I enjoy building applications, working with databases, and learning how differen
 
 ## tech stack`
 
-<img src="https://skillicons.dev/icons?i=php,laravel,java,cs,dotnet,angular,ts,js,react,nextjs,nodejs,flutter,dart,postgres,mysql,mongodb,firebase,supabase,git,github,docker,vscode,phpstorm&perline=7" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=php,laravel,java,cs,dotnet,angular,ts,js,html,css,react,nextjs,nodejs,flutter,dart,postgres,mysql,mongodb,firebase,supabase,tailwind,git,github,docker,postman,vscode,phpstorm,figma&perline=7" alt="tech stack">
 
 </div>
 

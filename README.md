@@ -34,7 +34,7 @@ Hi, I'm **Issa**, a Software Developer and Systems Engineering student from Sono
 I enjoy building applications, working with databases, and learning how different technologies connect to create useful software.
 
 - 💻 **Systems Engineering student** at Universidad de Navojoa.
-- 🚀 I build projects using **Laravel, Angular, .NET, Flutter and Node.js**.
+- 🚀 I build projects using **Laravel, PHP, Angular, .NET, Flutter and Node.js**.
 - 🗄️ I work with databases such as **PostgreSQL, MySQL, Firebase and Supabase**.
 - 🌐 Interested in **web development, backend development, APIs and software architecture**.
 - 📱 I also enjoy **mobile development** with Flutter and Expo.
@@ -46,9 +46,9 @@ I enjoy building applications, working with databases, and learning how differen
 
 <div align="center">
 
-## my perfect stack`
+## tech stack`
 
-<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,angular,ts,js,react,nextjs,nodejs,flutter,dart,postgres,mysql,mongodb,firebase,supabase,git,github,docker,vscode,phpstorm&perline=7" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=php,laravel,java,cs,dotnet,angular,ts,js,react,nextjs,nodejs,flutter,dart,postgres,mysql,mongodb,firebase,supabase,git,github,docker,vscode,phpstorm&perline=7" alt="tech stack">
 
 </div>
 
@@ -56,10 +56,7 @@ I enjoy building applications, working with databases, and learning how differen
 
 <div align="center">
 
----
 
-<div align="center">
-
-<sub>` Build with love · @Issa1616 `</sub>
+<sub>` Learning by building · fueled by coffee · @Issa1616 `</sub>
 
 </div>

@@ -6,12 +6,6 @@
 
 <br><br>
 
-<a href="https://github.com/Issa1616">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=8B9251&center=true&vCenter=true&width=880&lines=Issa+Victoria+Aguilar+Soto;Software+Developer+%26+Systems+Engineer;Web+/+Backend+/+Mobile+/+Databases" alt="typing banner">
-</a>
-
-<br>
-
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="https://issavic.dev">
   <img src="https://img.shields.io/badge/Portfolio-20391d?style=for-the-badge&logo=google-chrome&logoColor=f7f0e5" alt="Portfolio">
